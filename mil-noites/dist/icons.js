@@ -1,5 +1,6 @@
 'use strict';
 const iconPaths={
+sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/>',
 moon:'<path d="M20.5 19.4A10 10 0 0 1 10.6 3a10 10 0 1 0 9.9 16.4Z" fill="currentColor" stroke="none"/><circle cx="18" cy="5" r="1" fill="currentColor" stroke="none"/>',
 book:'<path d="M12 5.5C8.5 3.5 4.8 3.5 1.5 5v16c3.5-1.5 7.5-1 10.5 1 3-2 7-2.5 10.5-1V5c-3.3-1.5-7-1.5-10.5.5Z"/><path d="M12 5.5V22"/>',
 library:'<path d="M2 3h4v18H2zM7 3h4v18H7zM14 3l4-1 5 18-4 1z"/>',
